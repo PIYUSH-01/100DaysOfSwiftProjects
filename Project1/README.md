@@ -11,3 +11,4 @@ In this project we worked with and understood basics of:
 9. Auto Layout
 10. UIImage etc.
 
+![Project 1](https://user-images.githubusercontent.com/52041719/70388149-f8221b00-19d3-11ea-9016-47848999c180.gif)
