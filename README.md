@@ -1,2 +1,12 @@
-# 100DaysOfSwiftProjects
-I am following 100DaysOfSwift course on iOS development by Paul Hudson and thus I will be uploading all 30 projects that I will be making in this journey on my GitHub.
+#  Project 2
+In this project we worked with and understood basics of:  
+1. CALayer
+2. UIAlertController
+3. UIButton
+4. Random numbers
+5. Actions
+6. Asset catalogs etc.
+
+
+
+
