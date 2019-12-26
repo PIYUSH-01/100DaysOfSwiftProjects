@@ -1,6 +1,6 @@
 #  ChallengeProject1
 
-This was a challenge project in which we have to use the knowledge we have just gained in the previous projects.
+This was a challenge project in which we have to use the knowledge we have just gained in the previous projects(Project 1, 2 & 3).
 
 Basically this project was made using:
 1. Table views
